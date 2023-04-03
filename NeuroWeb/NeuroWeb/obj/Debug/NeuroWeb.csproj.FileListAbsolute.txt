@@ -1,0 +1,33 @@
+C:\Users\Никита\Desktop\С#\NeuroWeb\NeuroWeb\bin\Debug\NeuroWeb.exe.config
+C:\Users\Никита\Desktop\С#\NeuroWeb\NeuroWeb\bin\Debug\NeuroWeb.exe
+C:\Users\Никита\Desktop\С#\NeuroWeb\NeuroWeb\bin\Debug\NeuroWeb.pdb
+C:\Users\Никита\Desktop\С#\NeuroWeb\NeuroWeb\obj\Debug\NeuroWeb.csproj.AssemblyReference.cache
+C:\Users\Никита\Desktop\С#\NeuroWeb\NeuroWeb\obj\Debug\NeuroWeb.csproj.SuggestedBindingRedirects.cache
+C:\Users\Никита\Desktop\С#\NeuroWeb\NeuroWeb\obj\Debug\NeuroWeb.Form1.resources
+C:\Users\Никита\Desktop\С#\NeuroWeb\NeuroWeb\obj\Debug\NeuroWeb.Properties.Resources.resources
+C:\Users\Никита\Desktop\С#\NeuroWeb\NeuroWeb\obj\Debug\NeuroWeb.csproj.GenerateResource.cache
+C:\Users\Никита\Desktop\С#\NeuroWeb\NeuroWeb\obj\Debug\NeuroWeb.csproj.CoreCompileInputs.cache
+C:\Users\Никита\Desktop\С#\NeuroWeb\NeuroWeb\obj\Debug\NeuroWeb.exe
+C:\Users\Никита\Desktop\С#\NeuroWeb\NeuroWeb\obj\Debug\NeuroWeb.pdb
+C:\Users\Никита\Desktop\С#\копия\NeuroWeb\NeuroWeb\bin\Debug\NeuroWeb.exe.config
+C:\Users\Никита\Desktop\С#\копия\NeuroWeb\NeuroWeb\bin\Debug\NeuroWeb.exe
+C:\Users\Никита\Desktop\С#\копия\NeuroWeb\NeuroWeb\bin\Debug\NeuroWeb.pdb
+C:\Users\Никита\Desktop\С#\копия\NeuroWeb\NeuroWeb\obj\Debug\NeuroWeb.csproj.AssemblyReference.cache
+C:\Users\Никита\Desktop\С#\копия\NeuroWeb\NeuroWeb\obj\Debug\NeuroWeb.csproj.SuggestedBindingRedirects.cache
+C:\Users\Никита\Desktop\С#\копия\NeuroWeb\NeuroWeb\obj\Debug\NeuroWeb.Form1.resources
+C:\Users\Никита\Desktop\С#\копия\NeuroWeb\NeuroWeb\obj\Debug\NeuroWeb.Properties.Resources.resources
+C:\Users\Никита\Desktop\С#\копия\NeuroWeb\NeuroWeb\obj\Debug\NeuroWeb.csproj.GenerateResource.cache
+C:\Users\Никита\Desktop\С#\копия\NeuroWeb\NeuroWeb\obj\Debug\NeuroWeb.csproj.CoreCompileInputs.cache
+C:\Users\Никита\Desktop\С#\копия\NeuroWeb\NeuroWeb\obj\Debug\NeuroWeb.exe
+C:\Users\Никита\Desktop\С#\копия\NeuroWeb\NeuroWeb\obj\Debug\NeuroWeb.pdb
+C:\Users\Никита\Desktop\С#\копия NeuroWeb\NeuroWeb\NeuroWeb\bin\Debug\NeuroWeb.exe.config
+C:\Users\Никита\Desktop\С#\копия NeuroWeb\NeuroWeb\NeuroWeb\bin\Debug\NeuroWeb.exe
+C:\Users\Никита\Desktop\С#\копия NeuroWeb\NeuroWeb\NeuroWeb\bin\Debug\NeuroWeb.pdb
+C:\Users\Никита\Desktop\С#\копия NeuroWeb\NeuroWeb\NeuroWeb\obj\Debug\NeuroWeb.csproj.AssemblyReference.cache
+C:\Users\Никита\Desktop\С#\копия NeuroWeb\NeuroWeb\NeuroWeb\obj\Debug\NeuroWeb.csproj.SuggestedBindingRedirects.cache
+C:\Users\Никита\Desktop\С#\копия NeuroWeb\NeuroWeb\NeuroWeb\obj\Debug\NeuroWeb.Form1.resources
+C:\Users\Никита\Desktop\С#\копия NeuroWeb\NeuroWeb\NeuroWeb\obj\Debug\NeuroWeb.Properties.Resources.resources
+C:\Users\Никита\Desktop\С#\копия NeuroWeb\NeuroWeb\NeuroWeb\obj\Debug\NeuroWeb.csproj.GenerateResource.cache
+C:\Users\Никита\Desktop\С#\копия NeuroWeb\NeuroWeb\NeuroWeb\obj\Debug\NeuroWeb.csproj.CoreCompileInputs.cache
+C:\Users\Никита\Desktop\С#\копия NeuroWeb\NeuroWeb\NeuroWeb\obj\Debug\NeuroWeb.exe
+C:\Users\Никита\Desktop\С#\копия NeuroWeb\NeuroWeb\NeuroWeb\obj\Debug\NeuroWeb.pdb
